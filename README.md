@@ -1,2 +1,2 @@
 # projeto-landing-page
-Este é o projeto de desenvolvimento do módulo base do curso de Tecnologia da Escola DNC.
+Desenvolvimento de uma Landing Page para o lançamento da formação em tecnologia
